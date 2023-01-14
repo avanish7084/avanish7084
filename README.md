@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cow Breed Classification**
 
-- 🌱 I’m currently learning **Machine Learning, AWS**
+- 🌱 I’m currently learning **Machine Learning, Django**
 
 - 💬 Ask me about **Data Structures**
 
