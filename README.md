@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cow Breed Classification**
+- 🔭 I’m currently working on **Mern Stack Project**
 
-- 🌱 I’m currently learning **Machine Learning, Django**
+- 🌱 I’m currently learning **Nodejs Expressjs MongoDb**
 
 - 💬 Ask me about **Data Structures**
 
